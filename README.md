@@ -38,7 +38,7 @@ Or use like so:
 ## Change the password
 
 ```bash
-./mikrotik-wifi update password my-new-wifi hunter2 hunter3
+./mikrotik-wifi update password my-new-wifi hunter3
 ```
 
 ## Remove a network
